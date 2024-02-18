@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 17, 2023, 12:25:53 PM
+    Author     : pradisharoon
+*/
+
+            body {
+                background-color: #F1F0F0;
+                overflow-x: hidden;
+            }
+            .scrallbar:hover {
+                overflow: auto !important;
+            }
+            .fs-0 {
+                font-size: 4rem;
+            }
+            .fs-7 {
+                font-size: 0.8rem;
+            }
+            .active-quicklink:hover{
+                color: blue !important;
+            }
+            .bg-darkgray{
+                background-color: #D9D9D9 !important;
+            }
